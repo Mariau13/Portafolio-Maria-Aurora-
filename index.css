@@ -4,15 +4,13 @@
 h1 {
   color: grey;
 }
-.menuhome {
+.menuhome a {
   display: inline-block;
-  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  color: gray;
 }
 
-.menuoptions {
-  display: inline-block;
-  float: right;
-}
 .menuoptions a {
   display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
