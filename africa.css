@@ -11,12 +11,13 @@ h1 {
   display: inline-block;
   float: right;
 }
-.menuoptions h4 {
+.menuoptions a {
   display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
   color: gray;
-  padding: 10px;
 }
+
 .menu {
   background-color: white;
   width: 100%;

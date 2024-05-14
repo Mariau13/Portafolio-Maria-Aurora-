@@ -6,12 +6,14 @@ h1 {
 }
 .menuhome {
   display: inline-block;
+  color: grey;
 }
+
 .menuoptions {
   display: inline-block;
   float: right;
 }
-.menuoptions h4 {
+.menuoptions a {
   display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
   padding: 20px;
